@@ -1,0 +1,156 @@
+[
+	{
+		"name": "FBI Field Office",
+		"uniqeTo": "America",
+		"cost": 150,
+		"cityStrength": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Military Science",
+		"uniques": [
+			"[-60]% enemy spy effectiveness [in this cities]",
+			"[+25]% Strength for cities",
+            "Only available <if [FBI Headquarters] is constructed>",
+            "Destroyed when the city is captured",
+            "Automatically built in all cities where it is buildable",
+            "New [Land] units start with [660] Experience [in this city]",
+            "New [Water] units start with [550] Experience [in this city]"
+		]
+	},
+    {
+		"name": "FBI Headquarters",
+		"uniqeTo": "America",
+		"cost": 300,
+        "isNationalWonder": true,
+		"cityStrength": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Military Science",
+		"uniques": [
+			"[+25]% Strength for cities"
+		]
+	},
+	{
+		"name": "Murus Gallicus",
+		"replaces": "Walls",
+		"uniqueTo": "Gaul",
+		"cost": 65,
+		"production": 1,
+		"happiness": 1,
+		"cityStrength": 6,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": [
+			"Destroyed when the city is captured",
+			"[+1 Production] <after discovering [Metal Casting]>"
+		]
+	},
+	{
+		"name": "Hacienda",
+		"replaces": "Windmill",
+		"uniqueTo": "Mexico",
+		"production": 2,
+		"specialistSlots": {
+			"Engineer": 1
+		},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": [
+			"[+10]% Production when constructing [All] buildings [in this city]",
+			"[+1 Production] from [Oasis] tiles [in this city]",
+			"[+1 Production] from [Lakes] tiles [in this city]",
+			"[+1 Gold] from [Bonus resource] tiles [in this city]",
+			"[+1 Food] from [Strategic resource] tiles [in this city]",
+			"[+1 Production] from [Luxury resource] tiles [in this city]"
+		],
+		"requiredTech": "Economics"
+	},
+	{
+		"name": "Basilica",
+		"replaces": "Museum",
+		"uniqueTo": "Italy",
+		"culture": 2,
+		"specialistSlots": {
+			"Artist": 2
+		},
+		"greatPersonPoints": {
+			"Great Artist": 2
+		},
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization",
+		"uniques": [
+			"Destroyed when the city is captured",
+			"[+20]% Great Person generation [in this city]"
+		]
+	},
+	{
+		"name": "Yeshiva",
+		"replaces": "Temple",
+		"uniqueTo": "Israel",
+		"cost": 120,
+		"food": 1,
+		"production": 1,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Tim Hortons",
+		"uniqueTo": "Canada",
+		"replaces": "Stock Exchange",
+		"cost": 300,
+		"gold": 3,
+		"happiness": 2,
+		"percentStatBonus": {
+			"gold": 25
+		},
+		"specialistSlots": {
+			"Merchant": 2
+		},
+		"hurryCostModifier": 15,
+		"requiredBuilding": "Bank",
+		"uniques": [
+			"[+1 Gold] from [River] tiles [in this city]"
+		],
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "Prora",
+		"happiness": 1,
+		"isWonder": true,
+		"uniques": [
+			"[+5 Happiness] [in all cities]",
+			"Free Social Policy",
+			"Only available <after adopting [Autocracy]>"
+		],
+		"requiredTech": "Flight",
+		"quote": "'This loss (of freedom) means the fading from human life of values infinitely precious to it. There only remain ironbound conditions of employment and trivial amusements for leisure.' - A.N. Whitehead"
+	},
+	{
+		"name": "Statue of Liberty",
+		"culture": 2,
+		"happiness": 5,
+		"isWonder": true,
+		"uniques": [
+			"[+10]% [Culture] [in all cities]",
+			"Free Social Policy",
+			"Only available <after adopting [Freedom]>"
+		],
+		"requiredTech": "Replaceable Parts",
+		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
+	},
+	{
+		"name": "Kremlin",
+		"culture": 1,
+		"isWonder": true,
+		"uniques": [
+			"[+50]% Production when constructing [Armored] units [in all cities]",
+			"Free Social Policy",
+			"Only available <after adopting [Order]>"
+		],
+		"requiredTech": "Railroads",
+		"qoute": "'The Kremlin is constantly changing the rules of the game to suit its purposes. We are not playing chess, we're playing roulette.' - Garry Kasparov"
+	}
+]

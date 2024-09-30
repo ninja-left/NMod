@@ -1,0 +1,141 @@
+[
+    {
+        "name": "Special Agent",
+        "uniqeTo": "America",
+        "unitType": "Gunpowder",
+        "movement": 4,
+        "strength": 90,
+        "cost": 300,
+        "requiredTech": "Military Science",
+        "requiredBuilding": "FBI Field Office",
+        "uniques": [
+			"When defeating a [Land] unit, earn [-1] Gold and recruit it",
+            "Unable to capture cities",
+            "May heal outside of friendly territory",
+            "[1] Movement point cost to disembark",
+            "[1] Movement point cost to embark",
+            "Can instantly construct a [Fort] improvement",
+            "Cannot be purchased",
+            "Only available <in cities with a [FBI Field Office]>",
+            "Invisible to non-adjacent units"
+        ],
+		"attackSound": "shot"
+    },
+    {
+        "name": "Noble Swordsman",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Gaul",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 20,
+        "cost": 120,
+        "requiredTech": "Steel",
+        "uniques": [
+            "[+33]% Strength <when attacking>",
+            "[+50]% Strength <when fighting in [Forest] tiles>"
+        ],
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Ranchero",
+        "replaces": "Settler",
+        "uniqueTo": "Mexico",
+        "unitType": "Civilian",
+        "movement": 2,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "Requires at least [2] population"
+        ],
+        "hurryCostModifier": 20
+    },
+    {
+        "name": "Pittore",
+        "uniqueTo": "Italy",
+        "replaces": "Great Artist",
+        "unitType": "Civilian",
+        "uniques": [
+            "Empire enters a [12]-turn Golden Age <by consuming this unit>",
+            "Is part of Great Person group [Artist]",
+            "Great Person - [Culture]",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+        "movement": 4
+    },
+    {
+        "name": "Maccabee",
+        "replaces": "Swordsman",
+        "uniqueTo": "Israel",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 14,
+        "cost": 60,
+        "requiredTech": "Iron Working",
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "hurryCostModifier": 20,
+        "uniques": [
+            "Earn [100]% of killed [Military] unit's [Strength] as [Faith]"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Gadrauht",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Goths",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 22,
+        "cost": 108,
+        "requiredTech": "Steel",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Combat Engineer",
+        "replaces": "Rifleman",
+        "uniqueTo": "Canada",
+        "unitType": "Gunpowder",
+        "movement": 3,
+        "strength": 34,
+        "cost": 225,
+        "requiredTech": "Industrialization",
+        "uniques": [
+            "Can build [All Road] improvements on tiles",
+            "Can build [Fort] improvements on tiles",
+            "Can build [Remove Marsh] improvements on tiles",
+            "Can build [Remove Jungle] improvements on tiles",
+            "Can build [Remove Forest] improvements on tiles"
+        ],
+        "obsoleteTech": "Replaceable Parts",
+        "upgradesTo": "Great War Infantry",
+        "attackSound": "shot"
+    },
+    {
+        "name": "MIM-104 Patriot",
+        "replaces": "Mobile SAM",
+        "uniqueTo": "America",
+        "unitType": "Gunpowder",
+        "movement": 5,
+        "interceptRange": 20,
+        "strength": 150,
+        "cost": 400,
+        "requiredTech": "Rocketry",
+        "uniques": [
+            "[+200]% Strength <vs [Air] units>",
+            "[+200]% Strength <vs [Helicopter] units>",
+            "[+100]% chance to intercept air attacks",
+            "Invisible to non-adjacent units",
+            "Never appears as a Barbarian unit",
+            "Unable to capture cities"
+        ],
+        "promotions": [
+            "Indirect Fire"
+        ],
+        "attackSound": "missile"
+    }
+]

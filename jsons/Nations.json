@@ -1,0 +1,230 @@
+[
+    {
+		"name": "America",
+		"leaderName": "George Washington",
+		"adjective": ["American"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Washington",
+
+        "startIntroPart1": "President Washington, we salute you and the proud American civilization! Freed from the British dominion in the 18th century, then cleansed and reborn after a terrible civil war, the United States nation was ready to play its great role in the 20th century. At the height of its power, triumphant after two terrible world wars, United States of America, a land of immigration, opportunities, optimism and determination, has risen above all other weakening nations, unable to equal such power.",
+        "startIntroPart2": "President Washington, will you show to the world the legitimacy of the American way of life, and spread the flame of liberty to all mankind? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+		"introduction": "The people of the United States of America welcome you.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+		"tradeRequest": "Is the following trade of interest to you?",
+
+        "outerColor": [ 28,51,119],
+        "innerColor": [255,255,255],
+
+        "favoredReligion": "Christianity",
+		"uniqueName": "Manifest Destiny",
+		"uniques": [
+            "[+1] Sight <for [Military] units>",
+            "[-50]% Gold cost of acquiring tiles [in all cities]",
+            "May buy items in puppet cities"
+        ],
+		"cities": ["Washington, D.C","New York","Massachusetts","Georgia","Florida","Louisiana", "Texas", "Arizona", "Los Angeles",
+            "San Francisco", "Nevada", "Washington", "Montana", "North Dakota", "Minnesota", "Michigan", "Illinois", "Ohio",
+            "Kentucky", "Missouri", "South Dakota", "Nebraska", "Wyoming", "Colorado", "Utah", "Idaho", "Oregon", "Miami","Kansas", 
+            "Wisconsin", "Indiana", "Pennsylvania", "Rhode Island", "Maine", "Iowa", "Alabama", "Mississippi", "Richmond","Minneapolis",
+            "Pittsburgh", "Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Hunt Valley","Springfield", "Palo Alto","Centralia",
+            "Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage", "Sacramento","Reno",
+            "Salt Lake City","Milwaukee","Santa Cruz","Little Rock"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara", "Sam", "Walter", "Cole", "Lincoln", "Chris", "Alex", "Tina", "Sarah", "Tom"]
+	},
+    {
+        "name": "Canada",
+        "leaderName": "John A. MacDonald",
+        "adjective": ["Canadian"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Cultural",
+		"personality": "MacDonald",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "Prepare for war!",
+        "attacked": "You shall regret this!",
+        "defeated": "The victory is yours.",
+        "introduction": "Welcome to Canada. As their first Prime Minister, I give you my warmest welcome.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Better hurry, I may change my mind.",
+        "outerColor": [228, 26, 40],
+        "innerColor": [245, 222, 153],
+        "uniqueName": "Canadian Fur Trade",
+        "uniques": [
+            "[+2 Gold] from every [Camp]",
+            "[+2 Gold, +1 Culture] from every [Lakes]"
+        ],
+        "cities": [
+            "Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Quebec City","Winnipeg","Mississauga","Halifax",
+            "Saskatoon","Regina","Brampton","Hamilton","Fredericton","Laval","Surrey","Yellowknife","Whitehorse","Iqaluit",
+            "London","Victoria","Chilliwack","Markham","Windsor","Vaughan","Gatineau","Longueuil","St. John's","Burnaby",
+            "Kitchener","Richmond"
+        ],
+        "spyNames": [
+            "Cousin","Felix","Dennis","Edward","Prof. Rex","Eliza","Mary","Virginia","Scarlett","Barbara"
+        ]
+    },
+    {
+        "name": "Gaul",
+        "leaderName": "Vercingetorix",
+        "adjective": ["Gaul"],
+        "startBias": ["Avoid [Coast]","Forest"],
+        "preferredVictoryType": "Domination",
+		"personality": "Vercingetorix",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "What a worthless country, you're just like the other weak tribes!",
+        "attacked": "Hah! So you finally had enough with me? Well then, let us meet our blade in the battlefield!",
+        "defeated": "No...",
+        "introduction": "I am Chief Vercingetorix, I hail from the Arveni tribe. Carry on with your life so you may avoid bloodshed.",
+        "neutralHello": "What is your business with me?",
+        "hateHello": "Step forward, worthy enemy!",
+        "tradeRequest": "Let us trade.",
+        "outerColor": [65, 58, 21],
+        "innerColor": [157, 201, 107],
+        "uniqueName": "Oppidum of Bibracte",
+        "uniques": ["Gain a free [Murus Gallicus] [in capital] <upon discovering [Mining] technology>"],
+        "cities": [
+            "Bibracte","Gergovia","Tolosa","Lugdunum","Durocortorum","Bagacum","Nemetocenna","Luteria","Samarobriva","Entremont",
+            "Burdigala","Nemausus","Vienne","Brixia","Sinigaglia","Numantia","Termantia","Alesia","Genevensis","Tricassium",
+            "Gesoriacum","Namnetum","Rotomagus","Avennio","Cularo","Lemonum","Nanterre","Turones","Cenabum","Argantorate",
+            "Catumagos","Coriovallon","Uxellodunum","Vesontio","Agendincum","Cavillonum","Decetia","Gorgobina","Metlosedum","Narbo"
+        ],
+        "spyNames": [
+            "Caturix","Ioimaros","Malorix","Pixtilos","Andala","Orcetirix","Vidiacos","Dunohorix","Novantico","Auctiona"
+        ]
+    },
+    {
+        "name": "Goths",
+        "leaderName": "Alaric I",
+        "adjective": ["Goth"],
+        "startBias": ["Avoid [Coast]"],
+		"personality": "Alaric",
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "Hail Alaric, King of the Visigoths, Sacker of Rome! Your people shout your name and raise their swords to you! From the shores of Scandinavia your people came and spread across Europe. In the East, the Ostrogoths successfully revolted against the Huns. In the West, the Visigoths conquered Iberia. Even the eternal city fell before your might in 410 BCE, marking the definitive decline of the Western Roman Empire! Yet, you also possessed the heart and wisdom of a true leader: you forced the senate to free the slaves and treated her citizens with kindness, and paid homage to their gods and let all worship as they might. However - divided, conquered, forgotten - the legacy of the Goths has faded with the passage of time.",
+        "startIntroPart2": "Mighty King, once again the glories and riches of civilization stand before you. New cities have emerged, their towers scraping the very heavens themselves. The noble blood of your people cries out to you, and your warriors stand ready to fight any danger and gain greater glory! Will you claim these newfound riches as your own? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "Consider this an honour, to fight and even die at the hands of the Horde of the Goths!",
+        "attacked": "Another war? Fine by me: I hate standing fat on my throne.",
+        "defeated": "My blood may stain your sword, but remember that even the greatest cities eventually fall.",
+        "introduction": "I am Alaric I, and as my name suggests, I rule all over the land that we Goths have conquered.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "While I'm here, let me visit your lands, so I can see if there's anything worthy grabbing...",
+        "outerColor": [29, 26, 26],
+        "innerColor": [181, 214, 207],
+        "uniqueName": "Drauhtinon",
+        "uniques": ["[+1] Movement <for [Melee] units>"],
+        "cities": [
+            "Arheimar","Aujum","Potaissa","Apulon","Tyras","Sarmizegetusa","Argidava","Olite","Tolosa","Olbia",
+            "Reccopolis","Toletum","Pityus","Burdigala","Gerunda","Aiadava","Thessalonica","Victoriacum","Carnuntum","Sirmium",
+            "Massalia","Naissus","Salona","Durostorum","Marcianopolis","Tomis","Histria","Arles","Cantabria"
+        ],
+        "spyNames": [
+            "Flavius","Regula","Servius","Lucia","Cornelius","Licina","Canus","Serpens","Agrippa","Brutus"
+        ]
+    },
+    {
+        "name": "Israel",
+        "leaderName": "David",
+        "adjective": ["Israeli"],
+        "startBias": ["Avoid [Coast]"],
+		"personality": "David",
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "May the Lord God bless you, honorable King David, leader of a secular nation called Israel. You succeeded in truly unifying the Israelite tribes, and set up a monarchical government, the first to ever embrace Judaism. Embarked on successful military campaigns against Israel's enemies, you defeated nearby regional entities such as the Philistines, thus creating secure borders for your kingdom. Under your holy guidance, Israel grew into a regional power. Under your House, the united Kingdom of Israel achieved prosperity and superiority over its neighbours. The prosperity of your kingdom would continue under your wise son Solomon.",
+        "startIntroPart2": "King David, your people still lie scattered through the world, longing for a mighty leader to truly unite them. Will you listen their clamor? Will you once again bring the light of the Lord upon the world? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "God has spoken to me, and has told me that war between us has become inevitable!",
+        "attacked": "I have the power of God at my side, so I have no reason to fear you.",
+        "defeated": "My Lord has punished my people, but we shall return to the light.",
+        "introduction": "My blessings to thou, stranger. I am King David, and I guide the people of Israel.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "The Lord smiles upon us both today.",
+        "outerColor": [245, 245, 245],
+        "innerColor": [179, 135, 0],
+        "uniqueName": "The Promised Land",
+        "uniques": ["[+1 Culture] from every [Pasture]"],
+        "cities": [
+            "Yerushalayim","Hebron","Jericho","Sidon","Bethlehem","Tyre","Nazareth","Kadesh","Zeboim","Admah",
+            "Gaza","Megiddo","Nineveh","Gomorrah","Avaris"
+        ],
+        "spyNames": [
+            "Josue","Esther","Judas","Rut","Shammua","Shaphat","Caleb","Joshua","Ammiel","Geuel"
+        ]
+    },
+    {
+        "name": "Italy",
+        "leaderName": "Vittorio Emanuele III",
+        "adjective": ["Italian"],
+        "startBias": ["Avoid [Coast]"],
+		"personality": "Vittorio",
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "Grim days await you, Victor Emmanuel III, King of Italy. Coming to the throne upon the assassination of your father, Italy would soon be plunged into the calamity of the First World War. Heeding to the popular will, you rallied the Italian forces against the forward march of Vienna, taking to the front with your queen to dispense both moral and medical support. But though victorious, Italy's losses would be too great, and the road would for paved for the country's next great threat: Benito Mussolini and his fascism. Luckily, his shadow that loomed upon you and your beautiful nation would not last forever, and soon you indirectly paved the way for a new Italy, one that would seek cooperation with its neighbours instead of competition driven by the culture of the Rinascimento of many centuries ago.",
+        "startIntroPart2": "Tireless monarch, the frontlines of Italy once more lay bare and unprotected. Can you rally both soldier and ship to the defense of her borders, ensuring that Italy remains unassailable? Will your nation bring a new Rinascimento to bring new prosperity for her people? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "Although unwanted, war is a constant of this world, and it is regrettable that it must fall on us both.",
+        "attacked": "Italy is far from a stranger of war! I will show you that we are far from pushovers!",
+        "defeated": "It is sad that my forces were not enough to defend this nation... Addio, amico mio.",
+        "introduction": "Saluti, you walk upon the land of the former Roman Empire. I am Victor Emmanuel II, King Of Italy. Do you rule with benevolence, or absolute tyranny?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Our cultures have much to share, and this deal proves it.",
+        "outerColor": [41, 87, 0],
+        "innerColor": [205, 205, 205],
+        "uniqueName": "Rinascimento",
+        "uniques": [
+            "[+1 Culture] from every specialist [in all cities]",
+            "Comment [Empire enters golden age upon completing a policy branch]",
+            "Empire enters golden age <upon adopting [Tradition Complete]> <hidden from users>",
+            "Empire enters golden age <upon adopting [Liberty Complete]> <hidden from users>",
+            "Empire enters golden age <upon adopting [Honor Complete]> <hidden from users>",
+            "Empire enters golden age <upon adopting [Piety Complete]> <hidden from users>",
+            "Empire enters golden age <upon adopting [Patronage Complete]> <hidden from users>",
+            "Empire enters golden age <upon adopting [Commerce Complete]> <hidden from users>",
+            "Empire enters golden age <upon adopting [Rationalism Complete]> <hidden from users>"
+        ],
+        "cities": [
+            "Roma","Milan","Naples","Turin","Florence","Genoa","Bari","Palermo","Cagliari","Catania",
+            "Brescia","Messina","Bologna","Pisa","Verona","Taranto","Trieste","Rimini","Modena","Pescara",
+            "Vicenza","Ancona","Perugia","Lecce","Reggio","Parma"
+        ],
+        "spyNames": [
+            "Flavius","Regula","Servius","Lucia","Cornelius","Licina","Canus","Serpens","Agrippa","Brutus"
+        ]
+    },
+    {
+        "name": "Mexico",
+        "leaderName": "Benito Juarez",
+        "adjective": ["Mexican"],
+        "startBias": ["Avoid [Coast]"],
+		"personality": "Benito",
+        "startIntroPart1": "Your people greet you with a thunderous applause, oh Benito Juárez, overthrower of an empire and leader of the esteemed Mexican Republic! Mexico has a rich history, for its culture is nearly as diverse as its people are. The fertile land itself is ancient and has played host to a myriad of flourishing civilizations - such as the mighty Aztecs, the Maya, the Olmecs, Toltecs, Mixtecs and the Zapotecs. But it was all changed in the 1500s, when, with power and greed, the Spaniards arrived and began their bloody conquest of the New World. After 300 years of colonization, and having adopted the language, culture and systems of the Spaniards, the people rose up and ousted their former masters. This new, empowered Mexican nation was now the center of attention on the world's stage. The following hundred years were full of ideologies, muralism, foreign invasion and revolution that solidified the feeling of valiant resilience that all Mexicans hold dear to this day.",
+        "startIntroPart2": "Noble Benito Juárez, from humble beginnings as a Zapotec native, you rose to lead this great country. It was you that resisted the French and restored the republic. The people are in dire need of a national hero! Will you fight once again for their rights? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "Although with no fault of our own, relations between us have stretched beyond repair. We thus have no choice: war it must be.",
+        "attacked": "I have defeated far thougher opponents than you, so you will be just one more for the historians.",
+        "defeated": "Our people are strong, and soon they will rise against you, for you violated the rights of others in peace.",
+        "introduction": "Welcome to the Republic of Mexico, forged through war, now sustained by peace. I am Benito Juárez, and I hope that you and your people are open to progress, and not lost in the past.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Better hurry, I may change my mind.",
+        "outerColor": [38, 62, 19],
+        "innerColor": [218,97,12],
+        "uniqueName": "Encomienda System",
+        "uniques": [
+            "[-20]% City-State Influence degradation",
+            "Free [Worker] appears <upon discovering [Pottery] technology>"
+        ],
+        "cities": [
+            "Mexico City","Guadalajara","Tijuana","Juarez","Puebla","Monterrey","Veracruz","Acapulco","Mexicali","Oaxaca",
+            "Queretaro","Guadalupe","Merida","Tampico","Cancun","Chihuahua","Tuxtla Gutierrez","Campeche","Hermosillo","Durango",
+            "Durazzo","Villahermosa","Aguascalientes","Matamoros","San Luis Potosi","Zacatecas","Saltillo","Puerto Vallarta","Cuernavaca","Zapopan",
+            "Nogales","Mazatlan","Manzanillo","Tepic","Pachuca","Reyhosa","Morelia"
+        ],
+        "spyNames": [
+            "Rodrigo","Esmeralda","Leon","Mathilda","Ramona","Señor X","Topolino","Serpiente","Garcia","El Lobo"
+        ]
+    }
+]
