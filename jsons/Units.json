@@ -1,25 +1,25 @@
 [
     {
+        "name": "Agent",
+        "unitType": "Spy",
+        "movement": 4,
+        "strength": 40,
+        "cost": 400,
+        "requiredTech": "Military Science",
+        "attackSound": "shot"
+    },
+    {
         "name": "Special Agent",
         "uniqueTo": "America",
-        "unitType": "Gunpowder",
-        "movement": 4,
-        "strength": 90,
+        "unitType": "Spy",
+        "replaces": "Agent",
+        "strength": 65,
         "cost": 300,
-        "requiredTech": "Military Science",
         "requiredBuilding": "FBI Field Office",
         "uniques": [
             "When defeating a [Land] unit, earn [-100] Gold and recruit it",
-            "Unable to capture cities",
-            "May heal outside of friendly territory",
-            "[1] Movement point cost to disembark",
-            "[1] Movement point cost to embark",
-            "Can instantly construct a [Fort] improvement",
-            "Cannot be purchased",
-            "Only available <in cities with a [FBI Field Office]>",
-            "Invisible to non-adjacent units"
-        ],
-		"attackSound": "shot"
+            "Only available <in cities with a [FBI Field Office]>"
+        ]
     },
     {
         "name": "Noble Swordsman",
