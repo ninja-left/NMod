@@ -4,6 +4,8 @@
         "unitType": "Spy",
         "movement": 4,
         "strength": 40,
+        "range": 2,
+        "rangedStrength": 30,
         "cost": 400,
         "requiredTech": "Military Science",
         "attackSound": "shot"
@@ -14,6 +16,7 @@
         "unitType": "Spy",
         "replaces": "Agent",
         "strength": 65,
+        "rangedStrength": 50,
         "cost": 300,
         "requiredBuilding": "FBI Field Office",
         "uniques": [
