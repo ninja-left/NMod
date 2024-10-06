@@ -1,7 +1,7 @@
 [
     {
         "name": "Special Agent",
-        "uniqeTo": "America",
+        "uniqueTo": "America",
         "unitType": "Gunpowder",
         "movement": 4,
         "strength": 90,
