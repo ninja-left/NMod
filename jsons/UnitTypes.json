@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Spy",
+        "movementType": "Land",
+        "uniques": [
+            "Unable to capture cities",
+            "Cannot be purchased",
+            "May heal outside of friendly territory",
+            "Invisible to non-adjacent units",
+            "[1] Movement point cost to disembark",
+            "[1] Movement point cost to embark"
+        ]
+    }
+]
