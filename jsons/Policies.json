@@ -3,9 +3,11 @@
         "name": "Order",
         "era": "Industrial era",
         "uniques": [
+            "Triggers the following global alert: []",
             "Comment [Unlocks [Kremlin]]",
             "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Freedom]>"
+            "Only available <before adopting [Freedom]>",
+            "[+10]% [Production] [in all cities]"
         ],
         "policies": [
             {
@@ -231,8 +233,11 @@
         "name": "Freedom",
         "era": "Industrial era",
         "uniques": [
-            "[+25]% Great Person generation [in all cities]",
-            "Comment [Unlocks [Statue of Liberty]]"
+            "Triggers the following global alert: []",
+            "Comment [Unlocks [Statue of Liberty]]",
+            "Only available <before adopting [Autocracy]>",
+            "Only available <before adopting [Order]>",
+            "[+25]% Great Person generation [in all cities]"
         ],
         "policies": [
             {
@@ -456,6 +461,7 @@
         "name": "Autocracy",
         "era": "Industrial era",
         "uniques": [
+            "Triggers the following global alert: []",
             "Comment [Unlocks [Prora]]",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>",
