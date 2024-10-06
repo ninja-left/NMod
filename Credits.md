@@ -36,9 +36,11 @@
 - Incognito (Covert Action) by Kyle Dodson from [Noun Project]("https://thenounproject.com/browse/icons/term/incognito/") (CC BY 3.0)
 - campaign (Freedom of Speech) by Monika Gamaro from [Noun Project]("https://thenounproject.com/browse/icons/term/campaign/") (CC BY 3.0)
 - Badge (FBI Field Office) by Smalllike from [Noun Project]("https://thenounproject.com/browse/icons/term/badge/") (CC BY 3.0)
-- Mobile SAM (MIM-104 Patriot) images from [base game](https://github.com/yairm210/Unciv/)
+- Mobile SAM (MIM-104 Patriot) images from [Unciv]
 - FBI Seal (Black) (FBI Headquarters.png) image from [www.fbi.gov](https://www.fbi.gov/image-repository/fbi-seal-black.png/image_view_fullscreen)
 - police badge (Special Agent) by Muhammad Atiq from [Noun Project]("https://thenounproject.com/browse/icons/term/police-badge/") (CC BY 3.0)
+- Logistics (Logistic I,II) image from [Unciv]
 
 [RekMOD]: https://github.com/ravignir/RekMOD
+[Unciv]: https://github.com/yairm210/Unciv/
 
