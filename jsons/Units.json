@@ -9,7 +9,7 @@
         "requiredTech": "Military Science",
         "requiredBuilding": "FBI Field Office",
         "uniques": [
-			"When defeating a [Land] unit, earn [-1] Gold and recruit it",
+            "When defeating a [Land] unit, earn [-100] Gold and recruit it",
             "Unable to capture cities",
             "May heal outside of friendly territory",
             "[1] Movement point cost to disembark",
