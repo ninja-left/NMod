@@ -229,6 +229,34 @@ BuildingIcons/Yeshiva
   orig: 200, 200
   offset: 0, 0
   index: -1
+ConstructionIcons/UnitIcons/MIM-104 Patriot
+  rotate: false
+  xy: 520, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/MIM-104 Patriot
+  rotate: false
+  xy: 520, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ConstructionIcons/UnitIcons/Special Agent
+  rotate: false
+  xy: 4, 320
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitIcons/Special Agent
+  rotate: false
+  xy: 4, 320
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
 NationIcons/Canada
   rotate: false
   xy: 1320, 1836
@@ -329,49 +357,49 @@ PolicyIcons/Iron Curtain
   index: -1
 PolicyIcons/Media Culture
   rotate: false
-  xy: 1727, 1542
+  xy: 1785, 1542
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mobilization
   rotate: false
-  xy: 1785, 1542
+  xy: 628, 492
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/New Deal
   rotate: false
-  xy: 628, 492
+  xy: 623, 434
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Party Leadership
   rotate: false
-  xy: 623, 434
+  xy: 212, 84
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patriotic War
   rotate: false
-  xy: 212, 84
+  xy: 210, 26
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Skyscrapers
   rotate: false
-  xy: 210, 26
+  xy: 686, 492
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Socialist Realism
   rotate: false
-  xy: 686, 492
+  xy: 681, 434
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -385,21 +413,21 @@ PolicyIcons/Treaty Organization
   index: -1
 PolicyIcons/Universal Healthcare
   rotate: false
-  xy: 681, 434
+  xy: 1292, 1378
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Urbanization
   rotate: false
-  xy: 1292, 1378
+  xy: 1350, 1384
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 1350, 1384
+  xy: 1408, 1384
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -413,7 +441,7 @@ PolicyIcons/Workers Faculties
   index: -1
 PolicyIcons/Young Pioneers
   rotate: false
-  xy: 1408, 1384
+  xy: 1292, 1320
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -574,7 +602,7 @@ TileSets/FantasyHex/Units/Pittore
   index: -1
 TileSets/FantasyHex/Units/Ranchero
   rotate: false
-  xy: 1292, 1341
+  xy: 1350, 1347
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
@@ -614,20 +642,6 @@ UnitIcons/Gadrauht
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/MIM-104 Patriot
-  rotate: false
-  xy: 520, 520
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ConstructionIcons/UnitIcons/MIM-104 Patriot
-  rotate: false
-  xy: 520, 520
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Maccabee
   rotate: false
   xy: 1320, 1628
@@ -656,17 +670,10 @@ UnitIcons/Ranchero
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Special Agent
+UnitPromotionIcons/Logistic
   rotate: false
-  xy: 4, 320
-  size: 300, 300
-  orig: 300, 300
-  offset: 0, 0
-  index: -1
-ConstructionIcons/UnitIcons/Special Agent
-  rotate: false
-  xy: 4, 320
-  size: 300, 300
-  orig: 300, 300
+  xy: 1727, 1542
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
