@@ -13,7 +13,8 @@
 			"Destroyed when the city is captured",
 			"New [{Military} {non-air}] units start with [120] Experience [in this city]",
 			"New [Bomber] units start with [120] Experience [in this city]",
-			"New [Fighter] units start with [120] Experience [in this city]"
+			"New [Fighter] units start with [120] Experience [in this city]",
+			"New [Aircraft Carrier] units start with [45] Experience [in this city]"
 		]
 	},
     {
