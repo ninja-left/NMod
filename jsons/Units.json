@@ -15,6 +15,7 @@
         "uniqueTo": "America",
         "unitType": "Spy",
         "replaces": "Agent",
+        "movement": 4,
         "strength": 65,
         "rangedStrength": 50,
         "cost": 300,
