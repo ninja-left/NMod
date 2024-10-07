@@ -3,7 +3,8 @@
     "modUrl": "https://github.com/ninja-left/NMod",
     "topics": [
         "unciv-mod",
-        "unciv-mod-expansions"
+        "unciv-mod-expansions",
+        "unciv-mod-modsofmods"
     ],
     "uniques": [
         "Cannot be used as permanent audiovisual mod"
