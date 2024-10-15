@@ -1,7 +1,10 @@
 # Roadmap
 ## Graphics
-- [ ] Add icon for Agent units (ConstructionIcons/UnitsIcons, TileSets/*/Units, UnitsIcons)
-- [ ] Add icon for Spy (UnitTypeIcons)
+- [X] Add icon for Agent units
+  - /UnitsIcons
+  - /TileSets/*/Units
+  - /ConstructionIcons/UnitsIcons
+- [XS] Add icon for Spy unit type (/UnitTypeIcons)
 
 ## Code
 - [X] Configure unit promotions for Spy
