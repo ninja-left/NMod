@@ -189,491 +189,547 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Basilica
   rotate: false
-  xy: 1944, 1936
+  xy: 520, 501
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hacienda
   rotate: false
-  xy: 4, 4
+  xy: 1320, 1501
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Murus Gallicus
   rotate: false
-  xy: 1184, 1328
+  xy: 1736, 1709
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Prora
   rotate: false
-  xy: 1320, 1520
+  xy: 1428, 1501
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tim Hortons
   rotate: false
-  xy: 1428, 1520
+  xy: 212, 193
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Yeshiva
   rotate: false
-  xy: 1736, 1836
+  xy: 1736, 1817
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+ConstructionIcons/UnitIcons/Agent
+  rotate: false
+  xy: 1944, 1917
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Agent
+  rotate: false
+  xy: 1944, 1917
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ConstructionIcons/UnitIcons/MIM-104 Patriot
   rotate: false
-  xy: 520, 520
+  xy: 712, 629
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/MIM-104 Patriot
   rotate: false
-  xy: 520, 520
+  xy: 712, 629
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ConstructionIcons/UnitIcons/Special Agent
   rotate: false
-  xy: 4, 320
+  xy: 4, 301
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 UnitIcons/Special Agent
   rotate: false
-  xy: 4, 320
+  xy: 4, 301
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 NationIcons/Canada
   rotate: false
-  xy: 1320, 1836
+  xy: 1320, 1817
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Gaul
   rotate: false
-  xy: 712, 1172
+  xy: 712, 1153
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Goths
   rotate: false
-  xy: 312, 420
+  xy: 312, 401
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Israel
   rotate: false
-  xy: 712, 964
+  xy: 712, 945
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Italy
   rotate: false
-  xy: 976, 1228
+  xy: 976, 1209
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 112, 14
+  xy: 820, 639
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 PolicyIcons/Academy of Sciences
   rotate: false
-  xy: 1205, 1181
+  xy: 320, 176
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Capitalism
   rotate: false
-  xy: 1496, 1462
+  xy: 315, 118
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Clausewitz's Legacy
   rotate: false
-  xy: 1554, 1481
+  xy: 1146, 1151
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Elite Forces
   rotate: false
-  xy: 315, 122
+  xy: 1204, 1162
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Five-Year Plan
   rotate: false
-  xy: 1736, 1600
+  xy: 716, 507
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Free Mind
   rotate: false
-  xy: 712, 1436
+  xy: 712, 1417
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
 PolicyIcons/Hero of the People
   rotate: false
-  xy: 1794, 1600
+  xy: 788, 571
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Iron Curtain
   rotate: false
-  xy: 920, 1114
+  xy: 920, 1095
   size: 48, 50
   orig: 48, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Media Culture
   rotate: false
-  xy: 1785, 1542
+  xy: 1844, 1681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mobilization
   rotate: false
-  xy: 628, 492
+  xy: 1839, 1623
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/New Deal
   rotate: false
-  xy: 623, 434
+  xy: 1902, 1681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Party Leadership
   rotate: false
-  xy: 212, 84
+  xy: 1897, 1623
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patriotic War
   rotate: false
-  xy: 210, 26
+  xy: 1960, 1681
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Skyscrapers
   rotate: false
-  xy: 686, 492
+  xy: 1955, 1623
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Socialist Realism
   rotate: false
-  xy: 681, 434
+  xy: 378, 176
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Treaty Organization
   rotate: false
-  xy: 4, 1336
+  xy: 4, 1317
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
 PolicyIcons/Universal Healthcare
   rotate: false
-  xy: 1292, 1378
+  xy: 373, 118
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Urbanization
   rotate: false
-  xy: 1350, 1384
+  xy: 436, 181
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 1408, 1384
+  xy: 628, 473
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Workers Faculties
   rotate: false
-  xy: 4, 628
+  xy: 4, 609
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
 PolicyIcons/Young Pioneers
   rotate: false
-  xy: 1292, 1320
+  xy: 623, 415
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Pittore
   rotate: false
-  xy: 1320, 1442
+  xy: 112, 15
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Pittore-1
   rotate: false
-  xy: 420, 342
+  xy: 1320, 1423
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Pittore-2
   rotate: false
-  xy: 820, 678
+  xy: 1844, 1739
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Pittore-3
   rotate: false
-  xy: 1844, 1758
+  xy: 1644, 1531
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Ranchero
   rotate: false
-  xy: 1639, 1550
+  xy: 1408, 1423
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Ranchero-1
   rotate: false
-  xy: 1408, 1442
+  xy: 1496, 1423
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Ranchero-2
   rotate: false
-  xy: 628, 550
+  xy: 628, 531
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Ranchero-3
   rotate: false
-  xy: 315, 253
+  xy: 320, 234
   size: 80, 70
   orig: 80, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/MIM-104 Patriot
+TileSets/AbsoluteUnits/Units/Agent
   rotate: false
-  xy: 315, 180
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/MIM-104 Patriot-1
-  rotate: false
-  xy: 1932, 1755
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/MIM-104 Patriot-2
-  rotate: false
-  xy: 976, 1155
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pittore
-  rotate: false
-  xy: 520, 431
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pittore-1
-  rotate: false
-  xy: 1184, 1239
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pittore-2
-  rotate: false
-  xy: 1736, 1658
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pittore-Industrial era
-  rotate: false
-  xy: 1536, 1539
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pittore-Industrial era-1
-  rotate: false
-  xy: 212, 231
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pittore-Industrial era-2
-  rotate: false
-  xy: 212, 142
-  size: 95, 81
-  orig: 95, 81
+  xy: 1944, 1828
+  size: 100, 81
+  orig: 100, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Special Agent
   rotate: false
-  xy: 312, 331
+  xy: 1944, 1828
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Agent-1
+  rotate: false
+  xy: 1944, 1739
   size: 100, 81
   orig: 100, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Special Agent-1
   rotate: false
-  xy: 712, 667
+  xy: 1944, 1739
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Agent-2
+  rotate: false
+  xy: 4, 4
   size: 100, 81
   orig: 100, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Special Agent-2
   rotate: false
-  xy: 1736, 1747
+  xy: 4, 4
   size: 100, 81
   orig: 100, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/MIM-104 Patriot
+  rotate: false
+  xy: 408, 239
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/MIM-104 Patriot-1
+  rotate: false
+  xy: 976, 1136
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/MIM-104 Patriot-2
+  rotate: false
+  xy: 1061, 1136
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pittore
+  rotate: false
+  xy: 520, 412
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pittore-1
+  rotate: false
+  xy: 1184, 1220
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pittore-2
+  rotate: false
+  xy: 1736, 1620
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pittore-Industrial era
+  rotate: false
+  xy: 212, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pittore-Industrial era-1
+  rotate: false
+  xy: 312, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pittore-Industrial era-2
+  rotate: false
+  xy: 415, 312
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Agent
+  rotate: false
+  xy: 920, 1059
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Special Agent
+  rotate: false
+  xy: 920, 1059
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/MIM-104 Patriot
   rotate: false
-  xy: 712, 631
+  xy: 976, 1100
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pittore
   rotate: false
-  xy: 270, 106
+  xy: 920, 1023
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ranchero
   rotate: false
-  xy: 1350, 1347
+  xy: 920, 986
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Special Agent
+TileSets/HexaRealm/Units/Agent
   rotate: false
-  xy: 920, 1078
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/MIM-104 Patriot
-  rotate: false
-  xy: 1061, 1164
+  xy: 1584, 1437
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Special Agent
   rotate: false
-  xy: 1133, 1164
+  xy: 1584, 1437
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/MIM-104 Patriot
+  rotate: false
+  xy: 716, 565
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Combat Engineer
   rotate: false
-  xy: 1944, 1828
+  xy: 1184, 1309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gadrauht
   rotate: false
-  xy: 4, 112
+  xy: 4, 93
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Maccabee
   rotate: false
-  xy: 1320, 1628
+  xy: 1320, 1609
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Noble Swordsman
   rotate: false
-  xy: 1528, 1836
+  xy: 1528, 1817
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Pittore
   rotate: false
-  xy: 712, 756
+  xy: 712, 737
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ranchero
   rotate: false
-  xy: 1528, 1628
+  xy: 1528, 1609
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Logistic
   rotate: false
-  xy: 1727, 1542
+  xy: 846, 581
   size: 50, 50
   orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitTypeIcons/Spy
+  rotate: false
+  xy: 1536, 1501
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
