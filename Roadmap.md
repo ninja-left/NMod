@@ -4,7 +4,7 @@
   - /UnitsIcons
   - /TileSets/*/Units
   - /ConstructionIcons/UnitsIcons
-- [XS] Add icon for Spy unit type (/UnitTypeIcons)
+- [X] Add icon for Spy unit type (/UnitTypeIcons)
 
 ## Code
 - [X] Configure unit promotions for Spy
