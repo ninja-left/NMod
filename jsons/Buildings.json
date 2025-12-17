@@ -10,10 +10,10 @@
 			"[-60]% enemy spy effectiveness [in this city]",
      "Only available <if [FBI Headquarters] is constructed>",
 			"Destroyed when the city is captured",
-			"New [{Military} {non-air}] units start with [120] Experience [in this city]",
-			"New [Bomber] units start with [120] Experience [in this city]",
-			"New [Fighter] units start with [120] Experience [in this city]",
-			"New [Aircraft Carrier] units start with [45] Experience [in this city]"
+			"New [{Military} {non-air}] units start with [120] XP [in this city]",
+			"New [Bomber] units start with [120] XP [in this city]",
+			"New [Fighter] units start with [120] XP [in this city]",
+			"New [Aircraft Carrier] units start with [45] XP [in this city]"
 		]
 	},
     {
