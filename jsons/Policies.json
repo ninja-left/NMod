@@ -450,7 +450,7 @@
                     "[+100]% Yield from every [Great Improvement]",
                     "[+50]% Golden Age length",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "Double quantity of [Aluminum] produced",
+                    "[+100]% [Aluminum] resource production",
                     "May buy items in puppet cities",
                     "May not annex cities"
                 ]
@@ -651,12 +651,12 @@
                 "name": "Fascism",
                 "uniques": [
                     "[-10]% [Food] [in all cities]",
-                    "Double quantity of [Horses] produced",
-                    "Double quantity of [Iron] produced",
-                    "Double quantity of [Coal] produced",
-                    "Double quantity of [Oil] produced",
-                    "Double quantity of [Aluminum] produced",
-                    "Double quantity of [Uranium] produced"
+                    "[+100]% [Horses] resource production",
+                    "[+100]% [Iron] resource production",
+                    "[+100]% [Coal] resource production",
+                    "[+100]% [Oil] resource production",
+                    "[+100]% [Aluminum] resource production",
+                    "[+100]% [Uranium] resource production"
                 ],
                 "requires": [
                     "Clausewitz's Legacy",
