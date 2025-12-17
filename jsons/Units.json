@@ -21,7 +21,7 @@
         "cost": 300,
         "requiredBuilding": "FBI Field Office",
         "uniques": [
-            "When defeating a [Land] unit, earn [-100] Gold and recruit it",
+            "May capture killed [Barbarian] units <while the empire is happy>",
             "Only available <in cities with a [FBI Field Office]>"
         ]
     },
